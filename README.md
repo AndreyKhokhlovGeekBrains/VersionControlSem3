@@ -1,3 +1,4 @@
 # VersionControlSem3
 Version control in-depth (GIT) (workshops)
-Andrey Khokhlov
+
+Andrey Khokhlov login: AK
